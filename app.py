@@ -240,4 +240,4 @@ st.sidebar.download_button(
     file_name=f"Anagrafica_{mat_data['Codice']}_{temp_op}C.xlsx",
     mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     help="Genera un file .xlsx con colonne standardizzate per il caricamento su Fogli Google o importazione massiva PDM."
-)\
+)
